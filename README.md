@@ -11,7 +11,7 @@ Simple trello clone written in Django as part of an internship project at Safran
 
 `python manage.py runserver`
 
-adminpasswordadminpassword## Adding/removing new projects and/or cards 
+## Adding/removing new projects and/or cards 
 Projects and cards can be managed with the django admin panel at *localhost/admin* with a newly created admin user or with
 
 User      **admin** and
