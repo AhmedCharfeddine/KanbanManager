@@ -1,6 +1,8 @@
 # KanbanManager
 Simple trello clone written in Django as part of an internship project at Safran Tunisia.
 
+![demo gif for the app](demo.gif)
+
 ## First time setup
 
 `pip install -r requirements.txt`
